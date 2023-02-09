@@ -15,7 +15,7 @@
 
 - 💼 En mi paso por el bootcamp realicé varios proyectos tanto individuales como grupales, manteniendo una actitud positiva ante a los diferentes retos. Te invito a visitar mi Github donde podrás encontrarlos. Si continúas interesado(a) no dudes en ponerte en contacto conmigo.
 
-- Linkedin: <a href="https://www.linkedin.com/in/sebastianvalbuenaacosta/" target="_blank">Sebastian Valbuena</a>
+- 🤖 Linkedin: <a href="https://www.linkedin.com/in/sebastianvalbuenaacosta/" target="_blank">Sebastian Valbuena</a>
 
 - 🌐 Website [endesarollo.com]
 
