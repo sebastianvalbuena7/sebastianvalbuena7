@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
+    <h1 align="center">Hola 👋, me llamo Sebastian Valbuena, Desarrollador FullStack Java</h1>
     <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
         Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
         YouDevs.</h3>
@@ -10,15 +10,13 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 🎓 Soy egresado de Mindhub en donde realicé el bootcamp de desarrollo full stack Java con más de 700 horas de aprendizaje y de desarrollo simulando un ambiente de trabajo real.
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 🎯 Las tecnologías con las que he trabajado son: HTML, CSS, JavaScript, Bootstrap, VueJs, Java, Spring Boot, Postman y Postgres SQL.
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 💼 En mi paso por el bootcamp realicé varios proyectos tanto individuales como grupales, manteniendo una actitud positiva ante a los diferentes retos. Te invito a visitar mi Github donde podrás encontrarlos. Si continúas interesado(a) no dudes en ponerte en contacto conmigo.
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
-
-- 🌐 Website [youdevs.com](youdevs.com)
+- 🌐 Website [endesarollo.com]
 
 
 <div align="left">
