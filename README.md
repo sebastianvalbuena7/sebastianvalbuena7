@@ -17,7 +17,7 @@
 
 - 🤖 Linkedin: <a href="https://www.linkedin.com/in/sebastianvalbuenaacosta/" target="_blank">Sebastian Valbuena</a>
  
-- 📧 Gmail: <p>sebastianvalbuena25@gmail.com</p>
+- 📧 Gmail: sebastianvalbuena25@gmail.com
 
 - 🌐 Website [endesarollo.com]
 
