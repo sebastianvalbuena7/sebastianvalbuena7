@@ -1,8 +1,7 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/YdRSXL43hzdQp8PVaP/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, me llamo Sebastian Valbuena</h1>
-    <h1 align="center">Desarollador Web FullStack Java🤍</h1>
-    <h3 align="center">Soy un desarrollador apasionado por aprender y dar lo mejor de mí en cada proyecto que esté en mis manos. Me gusta estar actualizado con todas las tecnologías nuevas que van saliendo.</h3>
+    <h1 align="center">Desarollador Web Full Stack🤍</h1>
 </div>
 
 ---
