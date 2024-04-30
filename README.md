@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mí:
 
-- Esta info se actulizará pronto👀🖤.
+- Esta info se actualizará pronto👀🖤.
 
 - 🤖 Linkedin: <a href="https://www.linkedin.com/in/sebastianvalbuenaacosta/" target="_blank">Sebastian Valbuena</a>
  
