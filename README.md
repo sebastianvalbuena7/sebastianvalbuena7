@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/KoqELgssTdL7a/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, me llamo Sebastian Valbuena</h1>
-    <h1 align="center">Desarollador Web Full Stack🦇🖤</h1>
+    <h1 align="center">Desarollador Web Full Stack🖤</h1>
 </div>
 
 ---
