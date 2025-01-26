@@ -28,5 +28,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://www.svgrepo.com/show/341805/expo.svg" title="React" alt="Expo" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
       </div>
 </div>
